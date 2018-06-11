@@ -1,0 +1,25 @@
+body
+{
+	background-image: url("paper.gif");
+	font-family: georgia;
+	color: white;
+}
+
+#header
+{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.menuitem
+{
+	border-width: 3px;
+	border-style: solid;
+	border-color: white;
+	font-size: 1.5em;
+
+}
+table
+{
+	width: 100%
+}
