@@ -27,7 +27,6 @@ body{
 .menuitem{
 	color: black;
 	font-size: 60px;
-	background-color: White;
 
 }
 
@@ -56,8 +55,9 @@ h2{
 div.ex1{
 	width: 1000px;
 	margin: auto;	
-    margin-bottom: 20px;
+    	margin-bottom: 20px;
 	border: 2px solid black;
+	background-color: white;
 }
 .height{
 	height: 100%;
