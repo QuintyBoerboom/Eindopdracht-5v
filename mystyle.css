@@ -1,5 +1,63 @@
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: #339966;
+	text-decoration: none;
+}
 body{
-	background-color: red;
-	font-family: Times New Roman;
-	color: white;
+	font-family: Lora;
+	margin: auto;
+	background-image: url("natuur.jpg");
+
+}
+.background{
+	font-family: 30px;
+	background-color: white;
+	width: 100%;
+	padding: 10px;
+}
+#header{
+	color: #339966;
+	font-size: 70px;
+}
+
+}
+.menuitem{
+	color: black;
+	font-size: 60px;
+
+}
+
+h1{
+	color: black;
+	font-size: 15px;
+}
+h2{
+	color: black;
+	font-size: 25px;
+}
+#footer{
+	color: black;
+	font-size: 20px;
+
+}
+
+}
+#container{
+	width: 1024px;
+}
+.extraspace{
+	margin-bottom: 20px;
+}
+
+div.ex1{
+	width: 1000px;
+	margin: auto;	
+    margin-bottom: 20px;
+	border: 2px solid black;
+}
+.height{
+	height: 100%;
 }
